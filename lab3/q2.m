@@ -1,0 +1,11 @@
+clear all;
+clc;
+t = (-2 * pi): 0.1 : (2 * pi);
+x = cos(t).^3;
+y = sin(t).^3;
+x1 = (cos(t) .* (8+ 5 .* cos(2.*t)+3 .* cos(6.*t)))./(13+3.*cos(4.*t));
+y1 = (4 .* sin(t).^3 .* (7+6 .* cos(2.*t) + 3.*cos(4.*t))) ./ (13+3 .* cos(4.*t));
+plot(x,y,"--m");
+hold on;
+plot(x1,y1);
+legend("sin and cos","catacaustic of the astroid");
