@@ -1,5 +1,3 @@
-#matlab-labworks \n This repo includes my programs that are created due to homeworks of MATLAB course
-=======
 # matlab-labworks
 ## This repo includes my programs that are created due to homeworks of MATLAB course.
 ### lab1![Screenshot_4](https://user-images.githubusercontent.com/79810945/138760474-3135d5a5-52db-4466-9223-0464f7baa18a.png)
