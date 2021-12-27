@@ -9,4 +9,4 @@
 ### lab7 <br> ![Screenshot_7](https://user-images.githubusercontent.com/79810945/143865986-8442e652-d172-4986-9828-e0ef81579261.jpg)
 ### lab8 <br> ![Screenshot_2123](https://user-images.githubusercontent.com/79810945/146657679-31954454-6055-4849-b5a5-bccb87079fc9.jpg)
 ### lab9 <br> ![Screenshot_7](https://user-images.githubusercontent.com/79810945/146736576-f611e155-a98d-48f4-b534-ad357f086809.jpg)
-
+### lab10 <br> ![Screenshot_1](https://user-images.githubusercontent.com/79810945/147465500-286a9844-6f31-42b0-a2a3-2a66009f1fb5.jpg)
